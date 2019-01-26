@@ -1,5 +1,6 @@
 {
   "version": 1,
-  "type": "static"
+  "type": "static",
+  "public" true
 }
 
